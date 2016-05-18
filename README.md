@@ -12,5 +12,5 @@ and convert your root file with
    
    
   
-The script is compatible with my [dockerized root](https://github.com/docker-library/owncloud) image.
+The script is compatible with my [dockerized root](https://github.com/martingabelmann/docker-ROOT) image.
 
